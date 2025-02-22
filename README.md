@@ -7,3 +7,5 @@
  1. docker-compose up -d
  2. Загрузка данных, предобработка, обучение модели data_loader_housing.py, model_training_housing.py
  3. Визуализация streamlit run streamlit_dashboard.py
+
+
